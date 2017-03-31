@@ -216,12 +216,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/lib-sec-disp.so:system/vendor/lib/lib-sec-disp.so \
-	vendor/samsung/mondrianwifi/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
-	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
 	vendor/samsung/mondrianwifi/proprietary/etc/sec_config:system/etc/sec_config \
 	vendor/samsung/mondrianwifi/proprietary/bin/irsc_util:system/bin/irsc_util \
 	vendor/samsung/mondrianwifi/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
